@@ -1,0 +1,3 @@
+﻿  Direct9Game.cpp
+C:\Dev\Visual Studio\C++\Direct9Game\Direct9Game\Direct9Game.cpp(388): warning C4715: 'SetupMesh': nem todos os caminhos de controle retornam um valor
+  Direct9Game.vcxproj -> C:\Dev\Visual Studio\C++\Direct9Game\Debug\Direct9Game.exe

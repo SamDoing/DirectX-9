@@ -1,0 +1,2 @@
+﻿  Direct9Game.cpp
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'C:\Dev\Visual Studio\C++\Direct9Game\Release\Direct9Game.exe'
